@@ -1,13 +1,10 @@
 import requests,json
 import random
-import requests,json
-import random
 import os
 import time
 import threading
 from requests import get
 from re import search
-from bs4 import BeautifulSoup as bs
 import requests as ru
 from requests import Session
 print("")
